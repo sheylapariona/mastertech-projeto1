@@ -21,16 +21,40 @@ h4,
 h5,
 h6 {
     font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-weight: 700;
+    font-weight: 600;
+}
+#textomemorialcor{
+  color: #f8f8f8;
+}
+
+#textonomecor {
+  color: #f8f8f8;
+}
+
+#cordotextodoform {
+  color: #f8f8f8;
+}
+
+#cordotextodoform2 {
+  color: #f8f8f8;
+}
+
+#cordotextodoform3 {
+  color: #f8f8f8;
+}
+
+.msg-teste{
+  padding: 20px;
 }
 
 .intro-header {
     padding-top: 50px;
     padding-bottom: 50px;
     text-align: center;
-    color: #f8f8f8;
+
     background: url(../img/intro-bg.jpg) no-repeat center center;
     background-size: cover;
+
 }
 
 .intro-message {
@@ -78,6 +102,7 @@ h6 {
         width: 100%;
     }
 }
+
 
 .network-name {
     text-transform: uppercase;
